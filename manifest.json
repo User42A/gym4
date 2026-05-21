@@ -1,0 +1,9 @@
+{
+  "name": "My Daily App",
+  "short_name": "DailyApp",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#02050c",
+  "theme_color": "#02050c",
+  "description": "Clean Daily App mit Training, Routine, Kalender, eigenem Profil und einstellbaren Farben."
+}
